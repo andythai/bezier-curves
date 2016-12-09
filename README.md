@@ -2,7 +2,7 @@
 
 This project functions like a simple track editor. It renders 10 bezier curves, with approximately 1500 line segments. Each curve has 4 control points which can be manipulated by mouse. 
 
-The controls:
+<b>The controls:</b>
 
 Clicking and dragging the mouse without clicking on a point will drag the camera.
 
